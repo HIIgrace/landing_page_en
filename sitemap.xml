@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url>
+	<loc>https://hiicl.com</loc>
+	<lastmod>2025-01-09</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>1.0</priority>
+	<image:image>
+	<image:loc>https://hiicl.com/img/1130220-Hiicl-LOGO-1-removebg-preview.png</image:loc>
+	<image:title>logo</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://hiicl.com/img/1130220-Hiicl-LOGO-1-removebg-preview.webp</image:loc>
+	<image:title>logo</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://hiicl.com/img/截圖%202025-01-09%20下午3.03.32.png</image:loc>
+	<image:title>placeholder user</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://hiicl.com/img/截圖%202025-01-09%20下午3.03.32.webp</image:loc>
+	<image:title>placeholder user</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://hiicl.com/img/媒體%20%281%29.jpeg</image:loc>
+	<image:title>placeholder user</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://hiicl.com/img/媒體%20%281%29.webp</image:loc>
+	<image:title>placeholder user</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://hiicl.com/img/截圖%202025-01-09%20下午3.23.54.png</image:loc>
+	<image:title>placeholder user</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://hiicl.com/img/截圖%202025-01-09%20下午3.23.54.webp</image:loc>
+	<image:title>placeholder user</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://hiicl.com/img/jingyu%20%281%29.jpg</image:loc>
+	<image:title>placeholder user</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://hiicl.com/img/jingyu%20%281%29.webp</image:loc>
+	<image:title>placeholder user</image:title>
+	</image:image>
+</url>
+</urlset>
